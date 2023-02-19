@@ -24,4 +24,6 @@ listEl.insertAdjacentHTML('beforeend', dataGallery);
 
 new SimpleLightbox('.gallery a', { captionDelay:250});
 
+console.log('Hello World');
+
 
