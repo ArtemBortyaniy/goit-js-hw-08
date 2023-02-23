@@ -1,4 +1,3 @@
-// import templateFunction from '../templates/qwe.hbs';
 // Описаний в документації
 import SimpleLightbox from "simplelightbox";
 // Додатковий імпорт стилів
@@ -25,6 +24,5 @@ listEl.insertAdjacentHTML('beforeend', dataGallery);
 
 new SimpleLightbox('.gallery a', { captionDelay:250});
 
-console.log('Hello World');
 
 
